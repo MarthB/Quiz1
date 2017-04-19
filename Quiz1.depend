@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1492013340 source:c:\users\martha\desktop\coding\quiz1\main.c
+	<stdio.h>
+	<string.h>
+
