@@ -27,7 +27,7 @@ main()
     printf("Question#1: In Peter Pan, Captain Hook had a hook on which hand?\n");
     scanf(" %s", ansOne);
 
-        if (toupper (ansOne) == 'LEFT')
+        if (toupper(ansOne) == 'LEFT')
     {
         printf("\nCorrect!\n");
     }
